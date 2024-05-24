@@ -62,7 +62,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/RJ_BOTS_2024"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/The_MoviesRequest1")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="http://t.me/RJ_Auto_accepts_join_requestsbot?startgroup")
                     ]
                 ]
             )
